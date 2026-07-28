@@ -120,15 +120,16 @@ Status:     Building things one commit
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=namrata-r&show_icons=true&theme=tokyonight"/>
+<picture>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrata-r&layout=compact&theme=tokyonight"/>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/namrata-r/namrata-r/output/github-contribution-grid-snake-dark.svg">
 
-</p>
+<img
+src="https://raw.githubusercontent.com/namrata-r/namrata-r/output/github-contribution-grid-snake.svg">
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=namrata-r&theme=tokyonight"/>
+</picture>
 
 </p>
 
