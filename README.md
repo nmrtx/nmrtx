@@ -1,16 +1,33 @@
-## Hi there 👋
+<table>
+<tr>
 
-<!--
-**namrata-r/namrata-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<td>
 
-Here are some ideas to get you started:
+```text
+YOUR ASCII ART HERE
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+
+<td>
+
+```console
+namrata@github
+--------------
+OS: Human v24.0
+Role: Software Engineer
+Languages: Java • Python • SQL
+Backend: Spring Boot
+AI: LangChain
+Status: Building things.
+```
+
+</td>
+
+</tr>
+</table>
+## Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=namrata-r&show_icons=true&theme=tokyonight"/>
+</p>
