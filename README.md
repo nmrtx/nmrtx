@@ -69,34 +69,34 @@ Company:    Deloitte
 Languages:  Java • Python • SQL • C
 
 Backend:    Python
-             FastAPI
-             Django
-             Flask
-             REST APIs
+            FastAPI
+            Django
+            Flask
+            REST APIs
 
-AI/ML:      LangChain
-             AutoGen
-             Google ADK
-             RAG
+Agentic AI: LangChain
+            AutoGen
+            Google ADK
+            RAG
 
 Databases:  MySQL
-             MongoDB
+            MongoDB
 
 Tools:      Git
-             Docker
-             VS Code
-             Linux
+            Docker
+            VS Code
+            Linux
 
 Learning:   System Design
-             Distributed Systems
-             DSA
+            Distributed Systems
+            DSA
 
 Interests:  Backend Engineering
-             AI Agents
-             Open Source
+            AI Agents
+            Open Source
 
 Status:     Building things one commit
-             at a time.
+            at a time.
 ```
 
 </td>
