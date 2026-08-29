@@ -58,7 +58,7 @@
 <td valign="top">
 
 ```console
-namrata-r@github
+nmrtx@github
 ──────────────────────────────────────
 
 OS:         Human v24.0
